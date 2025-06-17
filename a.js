@@ -8,5 +8,3 @@ var x = 10;
      console.log("this ia a js");
     
 }
-
-
