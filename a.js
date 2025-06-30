@@ -6,5 +6,5 @@ var x = 10;
  function getname() {
     console.log("this ia a js");
      console.log("this ia a js");
-    
+    console.log("heloooo")
 }
