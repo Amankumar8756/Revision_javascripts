@@ -47,3 +47,13 @@ function outer() {
 
 const myFunc = outer();
 myFunc(); // "I’m outer"
+
+
+function example() {
+  if (true) {
+    var x = 10;
+  }
+  console.log(x); // ✅ Works: x is accessible here
+}
+
+example();
